@@ -17,7 +17,7 @@ A disciplina está organizada em **dois grandes temas**, totalizando **60 horas 
 - **Redes Neurais Artificiais (RNAs)**: introdução e estudo de caso aplicado à biologia.  
 - **Validação de modelos computacionais**: conjuntos de treino e teste, overfitting/underfitting, validação cruzada, métricas de avaliação (precisão, recall, F1-score).  
 
-### 2. Aprendizado Não Supervisionado (30h)
+### 2. Aprendizado Não-Supervisionado (30h)
 - **Clusterização**:  
   - K-means  
   - Clusterização Hierárquica (single, complete, average linkage)  
