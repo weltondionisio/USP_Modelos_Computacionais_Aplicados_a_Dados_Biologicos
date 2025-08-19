@@ -1,4 +1,4 @@
-# Disciplina: Aprendizado de Máquina Aplicado à Biologia
+# Disciplina: Modelos Computacionais Aplicados a Dados Biológicos
 
 Este repositório reunirá informações, materiais, códigos e referências da disciplina de **Modelos Computacionais Aplicados a Dados Biológicos**, ministrada pelos professores doutores Welton Dionisio e Rodrigo Willemart na Pós-Graduação em Ciências Biológicas na Escola de Artes, Ciências e Humanidades da Universidade de São Paulo. O objetivo da disciplina é introduzir conceitos fundamentais de **aprendizado supervisionado e não supervisionado**, aplicados a problemas biológicos, incluindo análises de diversidade, classificação de espécies, estudos moleculares e sistemática.
 
