@@ -58,9 +58,9 @@ As bibliotecas mais utilizadas ao longo da disciplina incluem:
 ---
 
 ## Organização do Repositório
-- 📂 `notebooks/` → Códigos e exemplos práticos em Jupyter Notebook.  
-- 📂 `datasets/` → Dados biológicos utilizados nas análises.  
-- 📂 `seminarios/` → Materiais e apresentações dos seminários finais.  
+- 📂 `notebooks/` → Códigos e exemplos práticos em Notebooks Python & R.  
+- 📂 `datasets/` → Dados utilizados nas análises.
+- 📂 `livros/` → Livros de referência para estudo. 
 - 📄 `README.md` → Informações gerais da disciplina.  
 
 ---
