@@ -1,4 +1,4 @@
-# Disciplina: Aprendizado de Máquina Aplicado à Biologia
+# Disciplina: Modelos Computacionais Aplicados a Dados Biológicos
 
 Este repositório reunirá informações, materiais, códigos e referências da disciplina de **Modelos Computacionais Aplicados a Dados Biológicos**, ministrada pelos professores doutores Welton Dionisio e Rodrigo Willemart na Pós-Graduação em Ciências Biológicas na Escola de Artes, Ciências e Humanidades da Universidade de São Paulo. O objetivo da disciplina é introduzir conceitos fundamentais de **aprendizado supervisionado e não supervisionado**, aplicados a problemas biológicos, incluindo análises de diversidade, classificação de espécies, estudos moleculares e sistemática.
 
@@ -17,7 +17,7 @@ A disciplina está organizada em **dois grandes temas**, totalizando **60 horas 
 - **Redes Neurais Artificiais (RNAs)**: introdução e estudo de caso aplicado à biologia.  
 - **Validação de modelos computacionais**: conjuntos de treino e teste, overfitting/underfitting, validação cruzada, métricas de avaliação (precisão, recall, F1-score).  
 
-### 2. Aprendizado Não Supervisionado (30h)
+### 2. Aprendizado Não-Supervisionado (30h)
 - **Clusterização**:  
   - K-means  
   - Clusterização Hierárquica (single, complete, average linkage)  
@@ -58,9 +58,9 @@ As bibliotecas mais utilizadas ao longo da disciplina incluem:
 ---
 
 ## Organização do Repositório
-- 📂 `notebooks/` → Códigos e exemplos práticos em Jupyter Notebook.  
-- 📂 `datasets/` → Dados biológicos utilizados nas análises.  
-- 📂 `seminarios/` → Materiais e apresentações dos seminários finais.  
+- 📂 `notebooks/` → Códigos e exemplos práticos em Notebooks Python & R.  
+- 📂 `datasets/` → Dados utilizados nas análises.
+- 📂 `livros/` → Livros de referência para estudo. 
 - 📄 `README.md` → Informações gerais da disciplina.  
 
 ---
